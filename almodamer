@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>almodamer | المدمر</title>
+    <style>
+        body {
+            background-image: url('logo.jpg');
+            background-size: cover;
+            background-position: center;
+            background-attachment: fixed;
+            background-color: #0d1117;
+            color: #ffffff;
+            font-family: Arial, sans-serif;
+            margin: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        .overlay {
+            position: fixed;
+            top: 0; left: 0; width: 100%; height: 100%;
+            background-color: rgba(0, 0, 0, 0.6);
+            z-index: 1;
+        }
+        .container {
+            position: relative;
+            z-index: 2;
+            text-align: center;
+            border: 2px solid #58a6ff;
+            padding: 30px;
+            border-radius: 15px;
+            background-color: rgba(22, 27, 34, 0.85);
+            max-width: 400px;
+            width: 85%;
+        }
+        h1 { color: #58a6ff; }
+        .btn {
+            background-color: #238636;
+            color: white;
+            padding: 15px 25px;
+            border-radius: 8px;
+            text-decoration: none;
+            display: block;
+            margin-top: 20px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <div class="overlay"></div>
+    <div class="container">
+        <h1>المدمر | almodamer</h1>
+        <p>لصيانة وتحميل ألعاب PS3 و PS4</p>
+        <a href="#" class="btn">تفعيل تعديلة PS4</a>
+        <p style="margin-top:20px;">للتواصل: 0925483921</p>
+    </div>
+</body>
+</html>
