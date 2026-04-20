@@ -1,21 +1,15 @@
 CACHE MANIFEST 
-# v1.3 - almodamer host by HOPA
+# v2.0 - ALMODAMER NEON UPDATE BY HOPA
 
 CACHE:
 index.html
-psfree.mjs
-lapse.mjs
-goldhen.bin
 logo.jpg
-module/int64.mjs
-module/mem.mjs
-module/offset.mjs
-module/rw.mjs
-module/utils.mjs
-module/constants.mjs
-module/chain.mjs
-module/memtools.mjs
-module/view.mjs
+psfree.mjs
+exploit.mjs
+malloc.mjs
+offset.mjs
+rop.mjs
+webkit.mjs
 
 NETWORK:
 *
