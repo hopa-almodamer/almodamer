@@ -1,0 +1,17 @@
+CACHE MANIFEST 
+# v1.1 - almodamer host
+
+CACHE:
+index.html
+psfree.mjs
+lapse.mjs
+goldhen.bin
+module/int64.mjs
+module/mem.mjs
+module/offset.mjs
+module/rw.mjs
+module/utils.mjs
+module/constants.mjs
+
+NETWORK:
+*
